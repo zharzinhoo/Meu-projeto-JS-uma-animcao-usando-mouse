@@ -1,1 +1,2 @@
-# Meu-projeto-JS-uma-anima-o-usando-mouse
+# Meu-projeto-JS-uma-animacao-usando-mouse
+Meu projeto pj5s!
